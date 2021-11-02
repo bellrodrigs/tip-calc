@@ -10,13 +10,7 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -30,14 +24,18 @@ Users should be able to:
 
 ### Screenshot
 
+##### Desktop
 ![](screenshot.jpeg)
 
 ![](git-presentation.gif)
 
+##### Mobile
+![](mobile-screenshot.jpeg)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-tip-calculator-wofBZv-nb)
-- Live Site URL: [Add live site URL here](https://elegant-colden-30ab92.netlify.app/)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/responsive-tip-calculator-wofBZv-nb)
+- Live Site URL: [Live](https://elegant-colden-30ab92.netlify.app/)
 
 ## My process
 
