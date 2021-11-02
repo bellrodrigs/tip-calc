@@ -31,11 +31,12 @@ Users should be able to:
 
 ##### Mobile
 ![](mobile-screenshot.jpeg)
+![](gif-mobile-presentation.gif)
 
 ### Links
 
 - Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/responsive-tip-calculator-wofBZv-nb)
-- Live Site URL: [Live](https://elegant-colden-30ab92.netlify.app/)
+- Live Site URL: [Live](https://tip-calculator-challenge.netlify.app/)
 
 ## My process
 
