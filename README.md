@@ -30,8 +30,7 @@ Users should be able to:
 ![](git-presentation.gif)
 
 ##### Mobile
-![](mobile-screenshot.jpeg)
-![](gif-mobile-presentation.gif)
+![](mobile-screenshot.jpeg) ![](gif-mobile-presentation.gif)
 
 ### Links
 
