@@ -273,7 +273,7 @@
         margin-bottom: 10px;
         font-size: 18px;
     }
-    .card-calulate, .card-result, .input-div, .buttons-container, .input-div-active {
+    .card-calulate, .card-result, .input-div, .buttons-container, .input-div-active, .input-div-error {
         width: 100%
     }
 
