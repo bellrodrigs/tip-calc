@@ -131,12 +131,12 @@ export const Calculator = () => {
                     <button disabled={total == 0} className="reset-button" onClick={() => totalForPerson(true)}>Reset</button>
                 </div>
             </div>
-            <div class="attribution-mobile">
+            <div className="attribution-mobile">
                 Challenge by&nbsp; <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
                 Coded by&nbsp; <a href="https://www.linkedin.com/in/isabel-rodrigues-92b587155/"> Isabel Rodrigues</a>.
             </div>
         </div>
-        <div class="attribution">
+        <div className="attribution">
             Challenge by&nbsp; <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
             Coded by&nbsp; <a href="https://www.linkedin.com/in/isabel-rodrigues-92b587155/"> Isabel Rodrigues</a>.
         </div>
